@@ -141,7 +141,7 @@ These instructions will get you a copy of the project up and running on your loc
 You will need to clone the repository of the project from Github. This will contain the simple shell program and all of its dependencies.
 
 ```
-git clone https://github.com/jzamora5/AirBnB_clone.git
+git clone https://github.com/oluwakayodemike/AirBnB_clone.git
 ```
 After cloning the repository you will have a folder called AirBnB_clone. In here there will be several files that allow the program to work.
 
@@ -245,9 +245,3 @@ user@ubuntu:~/AirBnB$
 ## Built with
 
 Ubuntu 14.04, Emacs, and Python3 language.
-
-## Authors
-
-Jhoan Stiven Zamora Caicedo | Github: [jzamora5](https://github.com/jzamora5) 
-
-Jose David Caro Cantor | Github: [josecaro02](https://github.com/josecaro02)
